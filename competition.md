@@ -3,7 +3,7 @@ layout: page
 title: competition
 ---
 
-For the first EPiC competition, researchers will compete to see who can best use measures of physiology to model moment-to-moment ratings of two elementary components of emotional experience: feelings of valence and arousals. Afterwards, these same researchers will collaborate to describe their results and brainstorm how to improve the accuracy and generalizability of emotion recognition research. <br><br>To express interest in joining the competition, please fill out this <b>form</b> (coming soon)
+For our pilot, researchers will compete to see who can best use measures of physiology to model moment-to-moment ratings of two elementary components of emotional experience: feelings of valence and arousals. Afterwards, these same researchers will collaborate on a paper that describes the competition results and future directions for improving the accuracy and generalizability of emotion recognition research. <br><br>In addition to co-authorship, competitors will receive a small stipend. To express interest in joining the competition, please fill out this <a href = "https://forms.gle/gUtxGkgHbTkyhcaQ9">form</a> 
 ***
 ## Competition Details
 
