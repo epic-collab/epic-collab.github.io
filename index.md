@@ -3,7 +3,7 @@ layout: page
 ---
 
 
-<img src="/assets/img/eppmc_banner.png" alt="" />
+<img src="/assets/img/epic_banner.png" alt="" />
 
 The Emotion Phenomenology and Physiology Modeling Coopetition (EPPMC) is an emotion modeling coopetition designed to evaluate and improve researchers’ ability to model emotional experience from measures of physiology. <br>
 
