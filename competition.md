@@ -4,8 +4,7 @@ title: competition
 cover-img: /assets/img/network.png
 ---
 
-Researchers will first <b>compete</b> to see who can best use measures of physiology to model moment-to-moment ratings of two elementary components of emotional experience: feelings of valence and arousals. Afterwards, these same researchers will <b>collaborate</b> to describe their results and brainstorm how to improve the accuracy and generalizability of emotion recognition research.
-
+For the first EPiC competition, researchers will compete to see who can best use measures of physiology to model moment-to-moment ratings of two elementary components of emotional experience: feelings of valence and arousals. Afterwards, these same researchers will collaborate to describe their results and brainstorm how to improve the accuracy and generalizability of emotion recognition research.
 
 ***
 ## Initiative Details
@@ -23,7 +22,7 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
       </div>
       <div class="col-sm-9">
         <h3>Competitor Selection</h3>
-        Researchers can apply to participate in the coopetition if they (1) have significant experience in machine learning, and (2) are  affiliated with an academic institution. <br><br>12 coopetitors will be chosen to participate in the initiative and will receive a small stipend at the end.
+        Researchers can apply to participate in the competition if they (1) have significant experience in machine learning, and (2) are  affiliated with an academic institution. <br><br>12 competitors will be chosen to participate in the initiative and will receive a small stipend at the end.
 
       </div>
     </div>
@@ -60,7 +59,7 @@ Researchers will first <b>compete</b> to see who can best use measures of physio
       </div>
       <div class="col-sm-9">
         <h3>Results Dissemination</h3>
-        Coopetitors and initiative organizers will brainstorm how to improve the accuracy and generalizability of emotion recognition research. They will then co-author a manuscript that describes the competition results, limitations, and future directions.
+        Competitors and initiative organizers will brainstorm how to improve the accuracy and generalizability of emotion recognition research. They will then co-author a manuscript that describes the competition results, limitations, and future directions.
       </div>
     </div>
   </div>
