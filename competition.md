@@ -4,14 +4,67 @@ title: competition
 cover-img: /assets/img/network.png
 ---
 
+Researchers will first <b>compete</b> to see who can best use measures of physiology to model moment-to-moment ratings of two elementary components of emotional experience: feelings of valence and arousals. Afterwards, these same researchers will <b>collaborate</b> to describe their results and brainstorm how to improve the accuracy and generalizability of emotion recognition research.
 
 
-### [Conference contact email](mailto:bigteamscienceconference@gmail.com)
+***
+## Initiative Details
 
-### [Nicholas Coles](mailto:ncoles@stanford.edu)
+<section>
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-12">
+        <p>    </p>
+      </div>
+    </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center" vertical-align = "middle">
+        <img src="/assets/img/comp1.png" alt="" width="150" height="150">
+      </div>
+      <div class="col-sm-9">
+        <h3>Competitor Selection</h3>
+        Researchers can apply to participate in the coopetition if they (1) have significant experience in machine learning, and (2) are  affiliated with an academic institution. <br><br>12 coopetitors will be chosen to participate in the initiative and will receive a small stipend at the end.
 
-### [Heidi Baumgartner](mailto:heidib@stanford.edu)
+      </div>
+    </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <img src="/assets/img/comp2.png" alt="" width="150" height="150" vertical-align = "middle">
+      </div>
+      <div class="col-sm-9">
+        <h3>Database Distribution</h3>
+        Coopetitors will be given 4 emotion modeling challenges. For each challenge, they will be asked to model moment-to-moment self-report ratings of valence and arousal using 8 moment-to-moment physiology recordings (e.g., electrocardiography, galvanic skin response, temperature).
+      </div>
+    </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <img src="/assets/img/comp3.png" alt="tools" width="150" height="150">
+      </div>
+      <div class="col-sm-9">
+        <h3>Model Testing and Open Science</h3>
+        Model testing will involve a combination of k-fold and hold-out cross-validation. The coopetitors with the best models fits will receive a small monetary prize.<br><br>Coopetitors will make their code openly-available and reproducible--and will check each other’s work. 
+      </div>
+    </div>
+    <div class="col-sm-12">
+        <p>   </p>
+    </div>
+    <div class="row">
+      <div class="col-sm-3 col-xs-6" align="center">
+        <img src="/assets/img/comp4.png" alt="" width="150" height="150">
+      </div>
+      <div class="col-sm-9">
+        <h3>Results Dissemination</h3>
+        Coopetitors and initiative organizers will brainstorm how to improve the accuracy and generalizability of emotion recognition research. They will then co-author a manuscript that describes the competition results, limitations, and future directions.
+      </div>
+    </div>
+  </div>
+</section>
+<br>
 
-### [Manuel Bohn](mailto:manuel0bohn@gmail.com)
-
-### [Grace Zhou](mailto:grace.zhou@umanitoba.ca)
+***
