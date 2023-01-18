@@ -15,9 +15,7 @@ author: Nicholas Coles
 
 navbar-links:
   Home: "index"
-#  Registration: "registration"
-#  Program: "program"
-#  Contact: "contact"
+  Competition: "competition"
   
 #  About Me: "aboutme"
 #  Resources:

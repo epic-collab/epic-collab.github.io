@@ -1,6 +1,6 @@
 ---
 layout: page
-title: contact
+title: competition
 cover-img: /assets/img/network.png
 ---
 
