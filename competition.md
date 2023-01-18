@@ -46,7 +46,7 @@ For the first EPiC competition, researchers will compete to see who can best use
       </div>
       <div class="col-sm-9">
         <h3>Model Testing and Open Science</h3>
-        Model testing will involve a combination of k-fold and hold-out cross-validation. The coopetitors with the best models fits will receive a small monetary prize.<br><br>Coopetitors will make their code openly-available and reproducible--and will check each other’s work. 
+        Model testing will involve a combination of k-fold and hold-out cross-validation. The competitors with the best models fits will receive a small monetary prize.<br><br>Competitors will make their code openly-available and reproducible--and will check each other’s work. 
       </div>
     </div>
     <div class="col-sm-12">
