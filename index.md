@@ -2,10 +2,12 @@
 layout: page
 ---
 
-
 <img src="/assets/img/epic_banner.png" alt="" />
 
-The Emotion Phenomenology and Physiology Modeling Coopetition (EPPMC) is an emotion modeling coopetition designed to evaluate and improve researchers’ ability to model emotional experience from measures of physiology. <br>
+The Emotion Physiology and Experience Collaboration (EPiC) is an international and interdisciplinary team of researchers who are developing the largest publicly available dataset on emotion physiology and experience. The dataset is designed to not only address century-old debates regarding emotion physiology--e.g., whether emotions have universally distinct patterns of physiological activity--but also spur growth in emotion-related artificial intelligence
+<br>
+
+Thanks to support from Stanford University, we are currently piloting (1) the data collection logistics, and (2) a shared task challenge designed to see how well moment-to-moment ratings of emotion can be modeled using measures of physiology.
 
 Researchers will first <b>compete</b> to see who can best use measures of physiology to model moment-to-moment ratings of two elementary components of emotional experience: feelings of valence and arousals. Afterwards, these same researchers will <b>collaborate</b> to describe their results and brainstorm how to improve the accuracy and generalizability of emotion recognition research.
 
