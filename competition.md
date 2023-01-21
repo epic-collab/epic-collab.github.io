@@ -3,7 +3,7 @@ layout: page
 title: competition
 ---
 
-For our pilot, researchers will compete to see who can best use measures of physiology to model moment-to-moment ratings of two elementary components of emotional experience: feelings of valence and arousals. Afterwards, these same researchers will collaborate on a paper that describes the competition results and future directions for improving the accuracy and generalizability of emotion recognition research. <br><br>In addition to co-authorship, competitors will receive a small stipend. To express interest in joining the competition, please fill out this <a href = "https://forms.gle/gUtxGkgHbTkyhcaQ9">form</a> 
+For our pilot, researchers will compete to see who can best use measures of physiology to model moment-to-moment ratings of two elementary components of emotional experience: feelings of valence and arousals. Afterwards, these same researchers will collaborate on a paper that describes the competition results and future directions for improving the accuracy and generalizability of emotion recognition research. <br><br>In addition to co-authorship, competitors will receive a small stipend. To express interest in joining the competition, please fill out this <a href = "https://forms.gle/gUtxGkgHbTkyhcaQ9">form</a>.
 
 ***
 ## Competition Details
@@ -21,7 +21,7 @@ For our pilot, researchers will compete to see who can best use measures of phys
       </div>
       <div class="col-sm-9">
         <h3>Competitor Selection</h3>
-        Researchers can apply to participate in the competition if they (1) have significant experience in machine learning, and (2) are  affiliated with an academic institution. <br><br>12 competitors will be chosen to participate in the initiative and will receive a small stipend at the end.
+        Researchers can apply to participate in the competition if they (1) have significant experience in machine learning, and (2) are  affiliated with an academic institution. <br><br>12 competitors will be chosen to participate in the initiative and will afterwards receive a small stipend.
 
       </div>
     </div>
@@ -34,7 +34,7 @@ For our pilot, researchers will compete to see who can best use measures of phys
       </div>
       <div class="col-sm-9">
         <h3>Database Distribution</h3>
-        Coopetitors will be given 4 emotion modeling challenges. For each challenge, they will be asked to model moment-to-moment self-report ratings of valence and arousal using 8 moment-to-moment physiology recordings (e.g., electrocardiography, galvanic skin response, temperature).
+        Competitors will be given 4 emotion modeling challenges. For each challenge, they will be asked to model moment-to-moment self-report ratings of valence and arousal using 8 moment-to-moment physiology recordings (e.g., electrocardiography, galvanic skin response, temperature).
       </div>
     </div>
     <div class="col-sm-12">
@@ -46,7 +46,7 @@ For our pilot, researchers will compete to see who can best use measures of phys
       </div>
       <div class="col-sm-9">
         <h3>Model Testing and Open Science</h3>
-        Model testing will involve a combination of k-fold and hold-out cross-validation. The competitors with the best models fits will receive a small monetary prize.<br><br>Competitors will make their code openly-available and reproducible--and will check each other’s work. 
+        Model testing will involve a combination of k-fold and hold-out cross-validation. The competitors with the best models fits will receive a small monetary prize.<br><br>To facilitate code checking and sharing, all code will be made openly-available. 
       </div>
     </div>
     <div class="col-sm-12">
@@ -58,7 +58,7 @@ For our pilot, researchers will compete to see who can best use measures of phys
       </div>
       <div class="col-sm-9">
         <h3>Results Dissemination</h3>
-        Competitors and initiative organizers will brainstorm how to improve the accuracy and generalizability of emotion recognition research. They will then co-author a manuscript that describes the competition results, limitations, and future directions.
+        Competitors will be invited to submit papers describing their approach to a workshop at the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligence Interaction Conference</a>. Afterwards, they will be invited to co-author a manuscript that describes the competition results, limitations, and future directions.
       </div>
     </div>
   </div>
