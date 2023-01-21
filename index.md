@@ -7,8 +7,10 @@ layout: page
 The <b>Emotion Physiology and Experience Collaboration</b> (EPiC) is an international and interdisciplinary team of researchers who are working to develop the largest publicly available dataset on emotion physiology and experience.
 
 With this dataset, we aspire to:
-1. Address century-old debates regarding emotion physiology (e.g., do emotions have universally distinct patterns of physiological activity?)<br>
-2. Examine and reduce bias in emotion AI models by collecting data from culturally and situationally diverse contexts. <br>
+1. Address century-old debates regarding emotion physiology (e.g., do emotions have universally distinct patterns of physiological activity?)
+
+2. Examine and reduce bias in emotion AI models by collecting data from culturally and situationally diverse contexts.
+
 3. Promote open and collaborative science in emotion AI.
 
 ***
@@ -17,6 +19,7 @@ With this dataset, we aspire to:
 
 Thanks to support from <a href = "https://propelgrants.stanford.edu/">Stanford University</a>, we are currently piloting:
 1. Procedures for a highly-standardized international data collection. <br>
+
 2. A <a href = "https://epic-collab.github.io/competition/">shared task competition</a> designed to see how well experts can model moment-to-moment ratings of emotion using measures of physiology.  
 
 Over 2023, we will be using this pilot to refine our approach and apply for full project funding.
@@ -51,7 +54,6 @@ Over 2023, we will be using this pilot to refine our approach and apply for full
 	  </div>
 	</div>
 </section>
-
 
 ***
 *icon attribution: <a href="http://www.freepik.com" target="_blank">Session</a> icons designed by macrovector / Freepik;
