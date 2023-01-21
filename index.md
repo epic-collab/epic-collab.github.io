@@ -51,5 +51,3 @@ Over 2023, we will be using this pilot to refine our approach and apply for full
 	  </div>
 	</div>
 </section>
-
-***

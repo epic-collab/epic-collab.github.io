@@ -64,5 +64,3 @@ For our pilot, researchers will compete to see who can best use measures of phys
   </div>
 </section>
 <br>
-
-***
