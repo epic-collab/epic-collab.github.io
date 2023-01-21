@@ -15,12 +15,9 @@ With this dataset, we aspire to:
 
 ***
 
-## Initiative Status
+##  Current Status: Piloting
 
-Thanks to support from <a href = "https://propelgrants.stanford.edu/">Stanford University</a>, we are currently piloting:
-1. Procedures for a highly-standardized international data collection. <br>
-
-2. A <a href = "https://epic-collab.github.io/competition/">shared task competition</a> designed to see how well experts can model moment-to-moment ratings of emotion using measures of physiology.  
+Thanks to support from <a href = "https://propelgrants.stanford.edu/">Stanford University</a>, we are currently piloting: (1) procedures for highly-standardized international data collection, and (2) a <a href = "https://epic-collab.github.io/competition/">shared task competition</a> designed to see how well experts can model moment-to-moment ratings of emotion using measures of physiology.  
 
 Over 2023, we will be using this pilot to refine our approach and apply for full project funding.
 
