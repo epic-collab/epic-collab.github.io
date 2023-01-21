@@ -53,5 +53,3 @@ Over 2023, we will be using this pilot to refine our approach and apply for full
 </section>
 
 ***
-*icon attribution: <a href="http://www.freepik.com" target="_blank">Session</a> icons designed by macrovector / Freepik;
-<a href="https://www.flaticon.com/" target="_blank">Submission</a> icons created by Freepik - Flaticon*
