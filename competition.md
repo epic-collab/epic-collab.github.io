@@ -65,6 +65,7 @@ For our 2023 competition, teams will compete to see who can best use measures of
 </section>
 <br>
 
+***
 ## Team Selection Criteria
 The competition organizers will review applications and rate the teams on the three following categories: 
 
