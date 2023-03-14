@@ -64,3 +64,14 @@ For our 2023 competition, teams will compete to see who can best use measures of
   </div>
 </section>
 <br>
+
+## Team Selection Criteria
+The competition organizers will review applications and rate the teams on the three following categories: 
+
+1. Expertise in affective science domain (0 - novice, 1 - some documented experience, 2 - experienced, 3 - experts)
+
+2. Experience participating in shared task challenges (0 - none, 1 - participated once or twice, 2 - participated many times, 3 - best solution awards)
+
+3. Planned approach to the task (0 - no idea, 1 - simple ML, 2 - advanced models planned, 3 - multimodal approach with reasonable architecture/models)
+
+These ratings will be used to identify up to 15 teams to invite to the challenge.
