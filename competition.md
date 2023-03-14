@@ -21,7 +21,7 @@ For our 2023 competition, teams will compete to see who can best use measures of
       </div>
       <div class="col-sm-9">
         <h3>Competitor Selection</h3>
-        Teams can apply to participate in the competition if they (1) have significant experience in machine learning, and (2) are  affiliated with an academic institution. <br><br>Up to 15 competitors will be chosen to participate in the initiative. Pending budgetary approval, they may also be eligible to receive $300 USD for participation.
+        Teams can apply to participate in the competition if they (1) have significant experience in machine learning, and (2) are  affiliated with an academic institution. Up to 15 teams will be chosen to participate in the initiative.
 
       </div>
     </div>
@@ -34,7 +34,7 @@ For our 2023 competition, teams will compete to see who can best use measures of
       </div>
       <div class="col-sm-9">
         <h3>Database Distribution</h3>
-         Teams will use a small dataset to examine how well moment-to-moment, continuous ratings of valence and arousal can be modeled using 8 physiological features (e.g., ECG, EDA, RSP, and EMG). To establish how well these models perform when exposed to different people and emotion contexts, competitors will cross-validate their models (1) across time, (2) across subjects, (3) across emotion categories, and (4) across stimuli.
+         Teams will use a small dataset to examine how well moment-to-moment, continuous ratings of valence and arousal can be modeled using 8 physiological features (e.g., ECG, EDA, RSP, and EMG).
       </div>
     </div>
     <div class="col-sm-12">
@@ -46,7 +46,7 @@ For our 2023 competition, teams will compete to see who can best use measures of
       </div>
       <div class="col-sm-9">
         <h3>Model Testing and Open Science</h3>
-        Model testing will involve a combination of k-fold and hold-out cross-validation. Three teams with the best models fits will receive an additional $200 (pending budgetary approval).<br><br>To facilitate code checking and sharing, all code will be made openly-available. 
+        To examine how well models perform when exposed to different people and emotion contexts, teams will cross-validate their models (1) across time, (2) across subjects, (3) across emotion categories, and (4) across stimuli.<br><br>To facilitate code checking and sharing, all code will be made openly-available. 
       </div>
     </div>
     <div class="col-sm-12">
@@ -58,7 +58,7 @@ For our 2023 competition, teams will compete to see who can best use measures of
       </div>
       <div class="col-sm-9">
         <h3>Results Dissemination</h3>
-        Competitors will be invited to submit papers describing their approach to an accepted workshop at the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligence Interaction Conference</a>. Afterwards, they will be invited to co-author a manuscript that describes the competition results, limitations, and future directions.
+        Teams will be invited to submit papers describing their approach to an accepted workshop at the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligence Interaction Conference</a>. Afterwards, they will be invited to co-author a manuscript that describes the competition results, limitations, and future directions.
       </div>
     </div>
   </div>
