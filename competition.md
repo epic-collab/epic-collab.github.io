@@ -79,7 +79,6 @@ These ratings will be used to identify up to 15 teams to invite to the challenge
 
 ***
 ## Timeline
-<ul style=“list-style-type:square”>
 <li>March 17: Competition team application opens</li>
 
 <li>March 30: Deadline for submitting application to participate in challenge</li>
@@ -93,4 +92,3 @@ These ratings will be used to identify up to 15 teams to invite to the challenge
 <li>June 2: Workshop paper submitters notified of status of submission.</li>
 
 <li>September 10-13: Affective Computing + Intelligence Interaction Conference.</li>
-</ul>
