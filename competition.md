@@ -69,10 +69,28 @@ For our 2023 competition, teams will compete to see who can best use measures of
 ## Team Selection Criteria
 The competition organizers will review applications and rate the teams on the three following categories: 
 
-1. Expertise in affective science domain (0 - novice, 1 - some documented experience, 2 - experienced, 3 - experts)
+1. Expertise in affective science domain
 
-2. Experience participating in shared task challenges (0 - none, 1 - participated once or twice, 2 - participated many times, 3 - best solution awards)
+2. Experience participating in shared task challenges
 
-3. Planned approach to the task (0 - no idea, 1 - simple ML, 2 - advanced models planned, 3 - multimodal approach with reasonable architecture/models)
+3. Planned approach to the task
 
 These ratings will be used to identify up to 15 teams to invite to the challenge.
+
+***
+## Timeline
+<ul style=“list-style-type:square”>
+<li>March 17: Competition team application opens</li>
+
+<li>March 30: Deadline for submitting application to participate in challenge</li>
+
+<li>April 3: Applicants notified of decisions</li>
+
+<li>April 14: Deadline to finish challenge and submit short papers to the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligence Interaction Conference</a> workshop. (Note: we may request an extension)</li>
+
+<li>April 21: Deadline to submit short papers to the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligence Interaction Conference</a> workshop.</li>
+
+<li>June 2: Workshop paper submitters notified of status of submission.</li>
+
+<li>September 10-13: Affective Computing + Intelligence Interaction Conference.</li>
+</ul>
