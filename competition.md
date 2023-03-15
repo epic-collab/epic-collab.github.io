@@ -79,6 +79,7 @@ These ratings will be used to identify up to 15 teams to invite to the challenge
 
 ***
 ## Timeline
+
 <li>March 17: Competition team application opens</li>
 
 <li>March 30: Deadline for submitting application to participate in challenge</li>
