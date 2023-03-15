@@ -3,7 +3,7 @@ layout: page
 title: 2023 competition
 ---
 
-For our 2023 competition, teams will compete to see who can best use measures of physiology to model moment-to-moment ratings of two elementary components of emotional experience: feelings of valence and arousals. Afterwards, these teams researchers will collaborate on a paper that describes the competition results and future directions for improving the accuracy and generalizability of emotion recognition research. <br><br>Pending budgetary approval, teams will be eligible to receive (a) $300 USD for participation, and (b) one of three $200 USD performance-based award. To express interest in joining the competition, please fill out this <a href = "https://forms.gle/gUtxGkgHbTkyhcaQ9">form</a>.
+For our 2023 competition, teams will compete to see who can best use measures of physiology to model moment-to-moment ratings of two elementary components of emotional experience: feelings of valence and arousals. Afterwards, these teams researchers will collaborate on a paper that describes the competition results and future directions for improving the accuracy and generalizability of emotion recognition research. <br><br>Each team will be eligible to receive (a) $300 USD for participation, and (b) one of three $200 USD performance-based award. To express interest in joining the competition, please fill out this <a href = "https://forms.gle/gUtxGkgHbTkyhcaQ9">form</a>.
 
 ***
 ## Competition Details
@@ -21,7 +21,7 @@ For our 2023 competition, teams will compete to see who can best use measures of
       </div>
       <div class="col-sm-9">
         <h3>Competitor Selection</h3>
-        Teams can apply to participate in the competition if they (1) have significant experience in machine learning, and (2) are  affiliated with an academic institution. Up to 15 teams will be chosen to participate in the initiative.
+        Teams (or individuals) can apply to participate in the competition if they (1) have significant experience in machine learning, and (2) are  affiliated with an academic institution. Up to 15 teams will be chosen to participate in the initiative.
 
       </div>
     </div>
