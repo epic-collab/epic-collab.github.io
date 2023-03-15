@@ -91,3 +91,14 @@ These ratings will be used to identify up to 15 teams to invite to the challenge
 <li>June 2: Workshop paper submitters notified of status of submission.</li>
 
 <li>September 10-13: Affective Computing + Intelligence Interaction Conference.</li>
+
+***
+## Competiton organizers
+
+<li>Nicholas A. Coles (Stanford University, USA)</li>
+
+<li>Maciej Behnke (Adam Mickiewicz University, Poland)</li>
+
+<li>Bartosz Perz (Wroclaw University of Science and Technology, Poland)</li>
+
+<li> Stanisław Saganowski (Wroclaw University of Science and Technology, Poland)</li>
