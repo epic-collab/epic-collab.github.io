@@ -58,7 +58,7 @@ For our 2023 competition, teams will compete to see who can best use measures of
       </div>
       <div class="col-sm-9">
         <h3>Results Dissemination</h3>
-        Teams will be invited to submit papers describing their approach to an accepted workshop at the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligence Interaction Conference</a>. Afterwards, they will be invited to co-author a manuscript that describes the competition results, limitations, and future directions.
+        Teams will be invited to submit short papers describing their approach to an accepted workshop at the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligence Interaction Conference</a> (formatting requirements <a href = "https://acii-conf.net/2023/wp-content/uploads/2023/03/2023-ACII-Submission-Guidelines.pdf">here</a>. Afterwards, they will be invited to co-author a separate paper that describes the competition results, limitations, and future directions.
       </div>
     </div>
   </div>
