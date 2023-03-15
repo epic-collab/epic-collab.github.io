@@ -87,8 +87,6 @@ These ratings will be used to identify up to 15 teams to invite to the challenge
 
 <li>April 14: Deadline to finish challenge and submit short papers to the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligence Interaction Conference</a> workshop. (Note: we may request an extension)</li>
 
-<li>April 21: Deadline to submit short papers to the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligence Interaction Conference</a> workshop.</li>
-
 <li>June 2: Workshop paper submitters notified of status of submission.</li>
 
 <li>September 10-13: Affective Computing + Intelligence Interaction Conference.</li>
