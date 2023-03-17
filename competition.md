@@ -34,7 +34,7 @@ For our 2023 competition, teams will compete to see who can best use measures of
       </div>
       <div class="col-sm-9">
         <h3>Database Distribution</h3>
-         Teams will use a small dataset to examine how well moment-to-moment, continuous ratings of valence and arousal can be modeled using 8 physiological features (e.g., ECG, EDA, RSP, and EMG).
+         Teams will use a small dataset to examine how well moment-to-moment, continuous ratings of valence and arousal can be modeled using 8 physiological features (e.g., ECG, EDA, RSP, and EMG). More information <a href = "https://docs.google.com/document/d/1sT-WumyJMfy8Tr46ow_76VY9-XJmtvMFUPxR9m7CSfs/edit?usp=sharing">here</a>.
       </div>
     </div>
     <div class="col-sm-12">
