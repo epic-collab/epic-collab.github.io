@@ -45,7 +45,7 @@ Over 2023, we will be using this pilot to refine our approach and apply for full
         			<p>   </p>
     		  </div>
 	 	  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4" align="center">
-		    <img src="/assets/img/Perz_headshot.png" alt="" width="110" height="110">
+		    <img src="/assets/img/Perz_headshot.jpg" alt="" width="110" height="110">
 			   <h4>Bartek Perz</h4>
 		  </div>
 		  <div class="col-lg-4 col-md-4 col-sm-4 col-xs-4" align="center">
