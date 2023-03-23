@@ -3,7 +3,7 @@ layout: page
 title: 2023 competition
 ---
 
-For our 2023 competition, teams will compete to see who can best use measures of physiology to model moment-to-moment ratings of two elementary components of emotional experience: feelings of valence and arousals. Afterwards, these teams researchers will collaborate on a paper that describes the competition results and future directions for improving the accuracy and generalizability of emotion recognition research. <br><br>Each team will be eligible to receive (a) $300 USD for participation, and (b) one of three $200 USD performance-based award. To express interest in joining the competition, please fill out this <a href = "https://forms.gle/gUtxGkgHbTkyhcaQ9">form</a>.
+For our 2023 competition, teams will compete to see who can best use measures of physiology to model moment-to-moment ratings of two elementary components of emotional experience: feelings of valence and arousals. Afterwards, these teams researchers will collaborate on a paper that describes the competition results and future directions for improving the accuracy and generalizability of emotion recognition research. <br><br>Each team will be eligible to receive (a) $300 USD for participation, and (b) one of three $200 USD performance-based award. To express interest in joining the competition, please fill out this <a href = "https://forms.gle/gUtxGkgHbTkyhcaQ9">form</a> by end-of-day March 30.
 
 ***
 ## Competition Overview
