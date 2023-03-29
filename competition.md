@@ -58,7 +58,7 @@ For our 2023 competition, teams will compete to see who can best use measures of
       </div>
       <div class="col-sm-9">
         <h3>Results Dissemination</h3>
-        Teams will be invited to submit short papers describing their approach to an accepted workshop at the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligence Interaction Conference</a> (formatting requirements <a href = "https://acii-conf.net/2023/wp-content/uploads/2023/03/2023-ACII-Submission-Guidelines.pdf">here</a>. Afterwards, they will be invited to co-author a separate paper that describes the competition results, limitations, and future directions.
+        Teams will be invited to submit short papers describing their approach to an accepted workshop at the <a href = "https://acii-conf.net/2023/workshops/">2023 Affective Computing + Intelligence Interaction Conference</a> (formatting requirements <a href = "https://acii-conf.net/2023/wp-content/uploads/2023/03/2023-ACII-Submission-Guidelines.pdf">here</a>. Afterwards, they will be invited to co-author a separate paper that describes the competition results, limitations, and future directions.
       </div>
     </div>
   </div>
@@ -88,9 +88,9 @@ Due to sanctions that are beyond our control, researchers in the following count
 
 <li>April 3: Applicants notified of decisions</li>
 
-<li>April 14: Deadline to finish challenge and submit short papers to the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligence Interaction Conference</a> workshop. (Note: we may request an extension)</li>
+<li>April 28 [updated]: Deadline to finish challenge and submit short papers to the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligence Interaction Conference</a> workshop. (Note: we may request an extension)</li>
 
-<li>June 2: Workshop paper submitters notified of status of submission.</li>
+<li>June 9 [updated]: Workshop paper submitters notified of status of submission.</li>
 
 <li>September 10-13: Affective Computing + Intelligence Interaction Conference.</li>
 
