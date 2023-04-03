@@ -95,7 +95,7 @@ Due to sanctions that are beyond our control, researchers in the following count
 <li>September 10-13: Affective Computing + Intelligence Interaction Conference.</li>
 
 ***
-## Competiton organizers
+## Competition organizers
 
 <li>Nicholas A. Coles (Stanford University, USA)</li>
 
