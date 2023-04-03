@@ -24,6 +24,7 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 
 <li>Kleanthis Avramidis (University of Southern California, USA)</li>
 
+
 ***
 ## Workshop organizers
 
