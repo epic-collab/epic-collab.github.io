@@ -9,7 +9,7 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 
 2. Presentations from several teams that participated in the 2023 EPiC Challenge
 
-3. A keynote address from Drs. <a href = "https://lisafeldmanbarrett.com/">Lisa Feldman Barrett</a> and <a href = "https://cos.northeastern.edu/people/karen-quigley/>Karen Quigley</a>.
+3. A keynote address from Drs. <a href = "https://lisafeldmanbarrett.com/">Lisa Feldman Barrett</a> and <a href = "https://cos.northeastern.edu/people/karen-quigley/">Karen Quigley</a>.
 
 4. Discussion future directions for the Emotion Physiology and Experience Collaboration.
 
