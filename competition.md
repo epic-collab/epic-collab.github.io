@@ -88,7 +88,9 @@ Due to sanctions that are beyond our control, researchers in the following count
 
 <li>April 3: Applicants notified of decisions</li>
 
-<li>April 28 [updated]: Deadline to finish challenge and submit short papers to the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligence Interaction Conference</a> workshop.</li>
+<li>April 26 [updated]: Deadline to submit challenge solutions</li>
+
+<li>April 28 [updated]: Challenge ends. Deadline to submit [optional] short papers to the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligence Interaction Conference</a> workshop.</li>
 
 <li>June 9 [updated]: Workshop paper submitters notified of status of submission.</li>
 
