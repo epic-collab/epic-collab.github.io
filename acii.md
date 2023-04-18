@@ -16,13 +16,27 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 ***
 ## Workshop committee
 
+<li>Andrzej Jarynowski (Institute of Interdisciplinary Research, Poland)</li>
+
 <li>Dominika Kunc (Wroclaw University of Science and Technology, Poland)</li>
+
+<li>Iwona Grabska-Gradzińska (Jagiellonian University, Poland)</li>
+
+<li>Lorenzo Pasquini (University of California, San Francisco, USA)</li>
+
+<li>Łukasz Czekaj (Aidmed, Poland)</li>
+
+<li>Michał Wróbel (Gdańsk University of Technology, Poland)</li>
+
+<li>Mikołaj Buchwald (Poznan Supercomputing and Networking Center, Poland)</li>
+
+<li>Kleanthis Avramidis (University of Southern California, USA)</li>
 
 <li>Przemyslaw Kazienko (Wroclaw University of Science and Technology, Poland)</li>
 
 <li>Sabyasachee Baruah (University of Southern California, USA)</li>
 
-<li>Kleanthis Avramidis (University of Southern California, USA)</li>
+<li>Tiantian Feng (University of Southern California, USA)</li>
 
 
 ***
@@ -34,4 +48,4 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 
 <li>Bartosz Perz (Wroclaw University of Science and Technology, Poland)</li>
 
-<li> Stanisław Saganowski (Wroclaw University of Science and Technology, Poland)</li>
+<li>Stanisław Saganowski (Wroclaw University of Science and Technology, Poland)</li>
