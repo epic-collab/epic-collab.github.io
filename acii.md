@@ -30,8 +30,6 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 
 <li>Mikołaj Buchwald (Poznan Supercomputing and Networking Center, Poland)</li>
 
-<li>Kleanthis Avramidis (University of Southern California, USA)</li>
-
 <li>Przemyslaw Kazienko (Wroclaw University of Science and Technology, Poland)</li>
 
 <li>Sabyasachee Baruah (University of Southern California, USA)</li>
