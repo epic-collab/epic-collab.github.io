@@ -3,7 +3,9 @@ layout: page
 title: 2023 competition
 ---
 
-For our 2023 competition, teams will compete to see who can best use measures of physiology to model moment-to-moment ratings of two elementary components of emotional experience: feelings of valence and arousals. Afterwards, these teams researchers will collaborate on a paper that describes the competition results and future directions for improving the accuracy and generalizability of emotion recognition research. <br><br>Each team will be eligible to receive (a) $300 USD for participation, and (b) one of three $200 USD performance-based award. To express interest in joining the competition, please fill out this <a href = "https://forms.gle/gUtxGkgHbTkyhcaQ9">form</a> by end-of-day March 30.
+For our 2023 competition, 12 teams (50 researchers) competed to see who can best use measures of physiology to model moment-to-moment ratings of two elementary components of emotional experience: feelings of valence and arousals.
+
+Challenge details will be (a) reviewed at 2023 Affective Computing + Intelligence Interaction Conference workshop in September, and (b) described in a forthcoming manuscript co-authored by the teams and the competition organizers. 
 
 ***
 ## Competition Overview
@@ -21,7 +23,7 @@ For our 2023 competition, teams will compete to see who can best use measures of
       </div>
       <div class="col-sm-9">
         <h3>Competitor Selection</h3>
-        Teams (or individuals) can apply to participate in the competition if they (1) have significant experience in machine learning, and (2) are affiliated with an academic institution. Up to 15 teams will be chosen to participate in the initiative.
+        Teams (or individuals) were eligible to participate in the competition if they (1) had significant experience in machine learning, and (2) were affiliated with an academic institution. We sought to invite up to 15 teams to participate in the initiative.
 
       </div>
     </div>
@@ -34,7 +36,7 @@ For our 2023 competition, teams will compete to see who can best use measures of
       </div>
       <div class="col-sm-9">
         <h3>Database Distribution</h3>
-         Teams will use a small dataset to examine how well moment-to-moment, continuous ratings of valence and arousal can be modeled using 8 physiological features (e.g., ECG, EDA, RSP, and EMG). More information <a href = "https://docs.google.com/document/d/1sT-WumyJMfy8Tr46ow_76VY9-XJmtvMFUPxR9m7CSfs/edit?usp=sharing">here</a>.
+         Teams used a small dataset to examine how well moment-to-moment, continuous ratings of valence and arousal could be modeled using 8 physiological features (e.g., ECG, EDA, RSP, and EMG).
       </div>
     </div>
     <div class="col-sm-12">
@@ -46,7 +48,7 @@ For our 2023 competition, teams will compete to see who can best use measures of
       </div>
       <div class="col-sm-9">
         <h3>Model Testing and Open Science</h3>
-        To examine how well models perform when exposed to different people and emotion contexts, teams will cross-validate their models (1) across time, (2) across subjects, (3) across emotion categories, and (4) across stimuli.<br><br>To facilitate code checking and sharing, all code will be made openly-available. 
+        To examine how well models perform when exposed to different people and emotion contexts, teams validated their models (1) across time, (2) across subjects, (3) across emotion categories, and (4) across stimuli. 
       </div>
     </div>
     <div class="col-sm-12">
@@ -58,7 +60,7 @@ For our 2023 competition, teams will compete to see who can best use measures of
       </div>
       <div class="col-sm-9">
         <h3>Results Dissemination</h3>
-        Teams will be invited to submit short papers describing their approach to an accepted workshop at the <a href = "https://acii-conf.net/2023/workshops/">2023 Affective Computing + Intelligence Interaction Conference</a> (formatting requirements <a href = "https://acii-conf.net/2023/wp-content/uploads/2023/03/2023-ACII-Submission-Guidelines.pdf">here</a>. Afterwards, they will be invited to co-author a separate paper that describes the competition results, limitations, and future directions.
+        Teams were invited to submit short papers describing their approach to an accepted workshop at the 2023 ACII Conference. They are now working on a collaborative paper describes the competition results, limitations, and future directions.
       </div>
     </div>
   </div>
@@ -66,35 +68,33 @@ For our 2023 competition, teams will compete to see who can best use measures of
 <br>
 
 ***
-## Team Selection Criteria
-The competition organizers will review applications and rate the teams on the three following categories: 
+## Competition participants
+<h3>Top-performing teams</h3>
+<li>First place: Monica Perusquia-Hernandez, Xin Wei, Huakun Liu, Felix Dollack, Chirag Raman, Hideaki Uchiyama, and Kiyoshi Kiyokawa</li>
 
-1. Expertise in affective science domain
+<li>Second place: Guangyi Zhang and Ali Etemad</li>
 
-2. Experience participating in shared task challenges
+<li>Third place: Tomás Ariel D'Amelio and Federico Zamberlan</li>
 
-3. Planned approach to the task
+<h3>Other teams</h3>
+<li>Linying Ji, Christopher Crawford, Yuqi Shen, Yanling Li, Young Won Cho, Xiaoyue Xiong, Zachary Fisher, and Sy-Miin Chow</li>
 
-These ratings will be used to identify up to 15 teams to invite to the challenge.
+<li>Saurabh Hinduja, Maneesh Bilalpur, Liza Vimalkumar Jivnani, and Shaun Canavane</li>
 
-Due to sanctions that are beyond our control, researchers in the following countries are not eligible to participate in the challenge: Russia, Cuba, Iran, North Korea, and Syria.
+<li>Shubham Pandey, Rushi, Sharanyak Podder, and Arpit Upadhyay</li>
 
-***
-## Timeline
+<li>Kieran McVeigh, Alessia Iancarelli, and Yiyu Wang</li>
 
-<li>March 17: Competition team application opens</li>
+<li>Huynh Van Thong, Vu Ngoc Tu, and Kim SooHyung</li>
 
-<li>March 30: Deadline for submitting application to participate in challenge</li>
+<li>Ziqing Yang, Houwei Cao</li>
 
-<li>April 3: Applicants notified of decisions</li>
+<li>Hugo Posada-Quintero, Fernando Marmolejo-Ramos, Javier Pinzón-Arenas, Luis Mercado-Díaz, Carlos Barrera-Causil, Jorge Ivan Padilla, Raydonal Ospina, and Julian Tejada</li>
 
-<li>April 28 [updated]: Deadline to submit challenge solutions</li>
+<li>Kleanthis Avramidis</li>
 
-<li>May 12 [updated]: Deadline to submit [optional] short papers to the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligence Interaction Conference</a> workshop.</li>
+<li>Isabel M. Berwian, Jamie C. Chiu, Dan-Mircea Mirea, Erik C. Nook, Henna Vartiainen, and Claire Whiting</li>
 
-<li>June 9 [updated]: Workshop paper submitters notified of status of submission.</li>
-
-<li>September 10-13: Affective Computing + Intelligence Interaction Conference.</li>
 
 ***
 ## Competition organizers
