@@ -74,7 +74,7 @@ Challenge details will be (a) reviewed at 2023 Affective Computing + Intelligenc
 
 <li>Second place: Guangyi Zhang and Ali Etemad</li>
 
-<li>Third place: Tomás Ariel D'Amelio and Federico Zamberlan</li>
+<li>Third place: Tomas D'Amelio, Nicolás Bruno, Leandro Bugnon, Federico Zamberlan, and Enzo Tagliazucchi</li>
 
 <h3>Other teams</h3>
 <li>Linying Ji, Christopher Crawford, Yuqi Shen, Yanling Li, Young Won Cho, Xiaoyue Xiong, Zachary Fisher, and Sy-Miin Chow</li>
