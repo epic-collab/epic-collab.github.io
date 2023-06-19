@@ -14,6 +14,18 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 4. Discussion future directions for the Emotion Physiology and Experience Collaboration.
 
 ***
+## Workshop organizers
+
+<li>Stanisław Saganowski (Wroclaw University of Science and Technology, Poland; stanislaw.saganowski[at]pwr.edu.pl)</li>
+
+<li>Bartosz Perz (Wroclaw University of Science and Technology, Poland; bartosz.perz[at]pwr.edu.pl)</li>
+
+<li>Maciej Behnke (Adam Mickiewicz University, Poland)</li>
+
+<li>Nicholas A. Coles (Stanford University, USA; ncoles[at]stanford.edu)</li>
+
+
+***
 ## Workshop committee
 
 <li>Andrzej Jarynowski (Institute of Interdisciplinary Research, Poland)</li>
@@ -35,15 +47,3 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 <li>Sabyasachee Baruah (University of Southern California, USA)</li>
 
 <li>Tiantian Feng (University of Southern California, USA)</li>
-
-
-***
-## Workshop organizers
-
-<li>Nicholas A. Coles (Stanford University, USA)</li>
-
-<li>Maciej Behnke (Adam Mickiewicz University, Poland)</li>
-
-<li>Bartosz Perz (Wroclaw University of Science and Technology, Poland)</li>
-
-<li>Stanisław Saganowski (Wroclaw University of Science and Technology, Poland)</li>
