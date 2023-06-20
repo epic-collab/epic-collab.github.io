@@ -20,7 +20,7 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 
 <li>Bartosz Perz (Wroclaw University of Science and Technology, Poland; bartosz.perz[at]pwr.edu.pl)</li>
 
-<li>Maciej Behnke (Adam Mickiewicz University, Poland)</li>
+<li>Maciej Behnke (Adam Mickiewicz University, Poland; macbehnke[at]gmail.com)</li>
 
 <li>Nicholas A. Coles (Stanford University, USA; ncoles[at]stanford.edu)</li>
 
