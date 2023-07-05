@@ -32,8 +32,6 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 
 <li>Dominika Kunc (Wroclaw University of Science and Technology, Poland)</li>
 
-<li>Iwona Grabska-Gradzińska (Jagiellonian University, Poland)</li>
-
 <li>Lorenzo Pasquini (University of California, San Francisco, USA)</li>
 
 <li>Łukasz Czekaj (Aidmed, Poland)</li>
