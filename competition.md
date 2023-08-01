@@ -70,39 +70,39 @@ Challenge details will be (a) reviewed at 2023 Affective Computing + Intelligenc
 ***
 ## Competition participants
 <h3>Top-performing teams</h3>
-<li>First place: Monica Perusquia-Hernandez, Xin Wei, Huakun Liu, Felix Dollack, Chirag Raman, Hideaki Uchiyama, and Kiyoshi Kiyokawa</li>
+* First place: Monica Perusquia-Hernandez, Xin Wei, Huakun Liu, Felix Dollack, Chirag Raman, Hideaki Uchiyama, and Kiyoshi Kiyokawa
 
-<li>Second place: Guangyi Zhang and Ali Etemad</li>
+* Second place: Guangyi Zhang and Ali Etemad
 
-<li>Third place: Tomas D'Amelio, Nicolás Bruno, Leandro Bugnon, Federico Zamberlan, and Enzo Tagliazucchi</li>
+* Third place: Tomas D'Amelio, Nicolás Bruno, Leandro Bugnon, Federico Zamberlan, and Enzo Tagliazucchi
 
 <h3>Other teams</h3>
-<li>Linying Ji, Christopher Crawford, Yuqi Shen, Yanling Li, Young Won Cho, Xiaoyue Xiong, Zachary Fisher, and Sy-Miin Chow</li>
+* Linying Ji, Christopher Crawford, Yuqi Shen, Yanling Li, Young Won Cho, Xiaoyue Xiong, Zachary Fisher, and Sy-Miin Chow
 
-<li>Saurabh Hinduja, Maneesh Bilalpur, Liza Vimalkumar Jivnani, and Shaun Canavane</li>
+* Saurabh Hinduja, Maneesh Bilalpur, Liza Vimalkumar Jivnani, and Shaun Canavane
 
-<li>Shubham Pandey, Rushi, Sharanyak Podder, and Arpit Upadhyay</li>
+* Shubham Pandey, Rushi, Sharanyak Podder, and Arpit Upadhyay
 
-<li>Kieran McVeigh, Alessia Iancarelli, and Yiyu Wang</li>
+* Kieran McVeigh, Alessia Iancarelli, and Yiyu Wang
 
-<li>Huynh Van Thong, Vu Ngoc Tu, and Kim SooHyung</li>
+* Huynh Van Thong, Vu Ngoc Tu, and Kim SooHyung
 
-<li>Ziqing Yang, Houwei Cao</li>
+* Ziqing Yang, Houwei Cao
 
-<li>Hugo Posada-Quintero, Fernando Marmolejo-Ramos, Javier Pinzón-Arenas, Luis Mercado-Díaz, Carlos Barrera-Causil, Jorge Ivan Padilla, Raydonal Ospina, and Julian Tejada</li>
+* Hugo Posada-Quintero, Fernando Marmolejo-Ramos, Javier Pinzón-Arenas, Luis Mercado-Díaz, Carlos Barrera-Causil, Jorge Ivan Padilla, Raydonal Ospina, and Julian Tejada
 
-<li>Kleanthis Avramidis</li>
+* Kleanthis Avramidis
 
-<li>Isabel M. Berwian, Jamie C. Chiu, Dan-Mircea Mirea, Erik C. Nook, Henna Vartiainen, and Claire Whiting</li>
+* Isabel M. Berwian, Jamie C. Chiu, Dan-Mircea Mirea, Erik C. Nook, Henna Vartiainen, and Claire Whiting
 
 
 ***
 ## Competition organizers
 
-<li>Nicholas A. Coles (Stanford University, USA)</li>
+* Nicholas A. Coles (Stanford University, USA)
 
-<li>Maciej Behnke (Adam Mickiewicz University, Poland)</li>
+* Maciej Behnke (Adam Mickiewicz University, Poland)
 
-<li>Bartosz Perz (Wroclaw University of Science and Technology, Poland)</li>
+* Bartosz Perz (Wroclaw University of Science and Technology, Poland)
 
-<li> Stanisław Saganowski (Wroclaw University of Science and Technology, Poland)</li>
+* Stanisław Saganowski (Wroclaw University of Science and Technology, Poland)
