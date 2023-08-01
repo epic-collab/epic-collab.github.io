@@ -16,15 +16,14 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 
 ***
 ## Agenda
-<li>9:00 - 9:15: Opening Remarks (Maciej Behnke)</li>
+* 9:00 - 9:15: Opening Remarks (Maciej Behnke)
 
 <li>9:15 - 10:15: Keynote talk (Lisa Feldman Barrett and Karen Quigley)</li>
 
 <li>10:15 - 10:30: Coffee break</li>
 
-<li>10:30 - 12:00 EPiC Challenge Session</li>
-
-<li>Introduction to EPiC Challenge (Bartosz Perz)</li>
+*10:30 - 12:00 EPiC Challenge Session*
+	*Introduction to EPiC Challenge (Bartosz Perz)
 	
 <li>Ensemble Learning to Assess Dynamics of Affective Experience Ratings and Physiological Change (Monica Perusquía Hernández and Chirag Raman)</li>
 
