@@ -18,56 +18,56 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 ## Agenda
 * 9:00 - 9:15: Opening Remarks (Maciej Behnke)
 
-<li>9:15 - 10:15: Keynote talk (Lisa Feldman Barrett and Karen Quigley)</li>
+* 9:15 - 10:15: Keynote talk (Lisa Feldman Barrett and Karen Quigley)
 
-<li>10:15 - 10:30: Coffee break</li>
+* 10:15 - 10:30: Coffee break
 
 *10:30 - 12:00 EPiC Challenge Session
 	*Introduction to EPiC Challenge (Bartosz Perz)
 	
-<li>Ensemble Learning to Assess Dynamics of Affective Experience Ratings and Physiological Change (Monica Perusquía Hernández and Chirag Raman)</li>
+* Ensemble Learning to Assess Dynamics of Affective Experience Ratings and Physiological Change (Monica Perusquía Hernández and Chirag Raman)
 
-<li>Deep Learning Analysis of Electrophysiological Series for Continuous Emotion Detection (Javier Orlando Pinzon-Arenas)</li>
+* Deep Learning Analysis of Electrophysiological Series for Continuous Emotion Detection (Javier Orlando Pinzon-Arenas)
 
-<li>Affective Computing as a Tool for Understanding Emotion Dynamics from Physiology: A Predictive Modeling Study of Arousal and Valence (Javier Orlando Pinzon-Arenas)</li>
+* Affective Computing as a Tool for Understanding Emotion Dynamics from Physiology: A Predictive Modeling Study of Arousal and Valence (Javier Orlando Pinzon-Arenas)
 
-<li>Unvieling the EPiC Challenge Results (Stanisław Saganowski)</li>
+* Unvieling the EPiC Challenge Results (Stanisław Saganowski)
 
-<li>12:00 - 1:30: Lunch</li>
+* 12:00 - 1:30: Lunch
 
-<li>1:30 - 2:15: The future of EPiC (Nicholas A. Coles)</li>
+* 1:30 - 2:15: The future of EPiC (Nicholas A. Coles)
 
-<li>2:15 - 3:00: Optional post-workshop brainstorming session</li>
+* 2:15 - 3:00: Optional post-workshop brainstorming session
 
 ***
 ## Workshop organizers
 
-<li>Stanisław Saganowski (Wroclaw University of Science and Technology, Poland; stanislaw.saganowski[at]pwr.edu.pl)</li>
+* Stanisław Saganowski (Wroclaw University of Science and Technology, Poland; stanislaw.saganowski[at]pwr.edu.pl)
 
-<li>Bartosz Perz (Wroclaw University of Science and Technology, Poland; bartosz.perz[at]pwr.edu.pl)</li>
+* Bartosz Perz (Wroclaw University of Science and Technology, Poland; bartosz.perz[at]pwr.edu.pl)
 
-<li>Maciej Behnke (Adam Mickiewicz University, Poland; macbehnke[at]gmail.com)</li>
+* Maciej Behnke (Adam Mickiewicz University, Poland; macbehnke[at]gmail.com)
 
-<li>Nicholas A. Coles (Stanford University, USA; ncoles[at]stanford.edu)</li>
+* Nicholas A. Coles (Stanford University, USA; ncoles[at]stanford.edu)
 
 
 ***
 ## Workshop committee
 
-<li>Andrzej Jarynowski (Institute of Interdisciplinary Research, Poland)</li>
+* Andrzej Jarynowski (Institute of Interdisciplinary Research, Poland)
 
-<li>Dominika Kunc (Wroclaw University of Science and Technology, Poland)</li>
+* Dominika Kunc (Wroclaw University of Science and Technology, Poland)
 
-<li>Lorenzo Pasquini (University of California, San Francisco, USA)</li>
+* Lorenzo Pasquini (University of California, San Francisco, USA)
 
-<li>Łukasz Czekaj (Aidmed, Poland)</li>
+* Łukasz Czekaj (Aidmed, Poland)
 
-<li>Michał Wróbel (Gdańsk University of Technology, Poland)</li>
+* Michał Wróbel (Gdańsk University of Technology, Poland)
 
-<li>Mikołaj Buchwald (Poznan Supercomputing and Networking Center, Poland)</li>
+* Mikołaj Buchwald (Poznan Supercomputing and Networking Center, Poland)
 
-<li>Przemyslaw Kazienko (Wroclaw University of Science and Technology, Poland)</li>
+* Przemyslaw Kazienko (Wroclaw University of Science and Technology, Poland)
 
-<li>Sabyasachee Baruah (University of Southern California, USA)</li>
+* Sabyasachee Baruah (University of Southern California, USA)
 
-<li>Tiantian Feng (University of Southern California, USA)</li>
+* Tiantian Feng (University of Southern California, USA)
