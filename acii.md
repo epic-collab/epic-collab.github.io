@@ -16,38 +16,34 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 
 ***
 ## Agenda
+<li>9:00 - 9:15: Opening Remarks (Maciej Behnke)</li><br>
+<li>9:15 - 10:15: Keynote talk (Lisa Feldman Barrett and Karen Quigley)</li><br>
+<li>10:15 - 10:30: Coffee break</li><br>
+<li>10:30 - 12:00 EPiC Challenge Symposium</li>
+	<ul>
+	<li>
+	</ul>
 
 
 
 ***
 ## Workshop organizers
 
-<li>Stanisław Saganowski (Wroclaw University of Science and Technology, Poland; stanislaw.saganowski[at]pwr.edu.pl)</li>
-<br>
-<li>Bartosz Perz (Wroclaw University of Science and Technology, Poland; bartosz.perz[at]pwr.edu.pl)</li>
-<br>
-<li>Maciej Behnke (Adam Mickiewicz University, Poland; macbehnke[at]gmail.com)</li>
-<br>
+<li>Stanisław Saganowski (Wroclaw University of Science and Technology, Poland; stanislaw.saganowski[at]pwr.edu.pl)</li><br>
+<li>Bartosz Perz (Wroclaw University of Science and Technology, Poland; bartosz.perz[at]pwr.edu.pl)</li><br>
+<li>Maciej Behnke (Adam Mickiewicz University, Poland; macbehnke[at]gmail.com)</li><br>
 <li>Nicholas A. Coles (Stanford University, USA; ncoles[at]stanford.edu)</li>
 
 
 ***
 ## Workshop committee
 
-<li>Andrzej Jarynowski (Institute of Interdisciplinary Research, Poland)</li>
-<br>
-<li>Dominika Kunc (Wroclaw University of Science and Technology, Poland)</li>
-<br>
-<li>Lorenzo Pasquini (University of California, San Francisco, USA)</li>
-<br>
-<li>Łukasz Czekaj (Aidmed, Poland)</li>
-<br>
-<li>Michał Wróbel (Gdańsk University of Technology, Poland)</li>
-<br>
-<li>Mikołaj Buchwald (Poznan Supercomputing and Networking Center, Poland)</li>
-<br>
-<li>Przemyslaw Kazienko (Wroclaw University of Science and Technology, Poland)</li>
-<br>
-<li>Sabyasachee Baruah (University of Southern California, USA)</li>
-<br>
+<li>Andrzej Jarynowski (Institute of Interdisciplinary Research, Poland)</li><br>
+<li>Dominika Kunc (Wroclaw University of Science and Technology, Poland)</li><br>
+<li>Lorenzo Pasquini (University of California, San Francisco, USA)</li><br>
+<li>Łukasz Czekaj (Aidmed, Poland)</li><br>
+<li>Michał Wróbel (Gdańsk University of Technology, Poland)</li><br>
+<li>Mikołaj Buchwald (Poznan Supercomputing and Networking Center, Poland)</li><br>
+<li>Przemyslaw Kazienko (Wroclaw University of Science and Technology, Poland)</li><br>
+<li>Sabyasachee Baruah (University of Southern California, USA)</li><br>
 <li>Tiantian Feng (University of Southern California, USA)</li>
