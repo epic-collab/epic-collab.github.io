@@ -22,7 +22,7 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 
 * 10:15 - 10:30: Coffee break
 
-*10:30 - 12:00 EPiC Challenge Session
+* 10:30 - 12:00 EPiC Challenge Session
 	* Introduction to EPiC Challenge (Bartosz Perz)
 	* Ensemble Learning to Assess Dynamics of Affective Experience Ratings and Physiological Change (Monica Perusquía Hernández and Chirag Raman)
 	* Deep Learning Analysis of Electrophysiological Series for Continuous Emotion Detection (Javier Orlando Pinzon-Arenas)
