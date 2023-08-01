@@ -33,14 +33,6 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 
 	<li>Unvieling the EPiC Challenge Results (Stanisław Saganowski)</li>
 
-	<ul>
-		<li>Introduction to EPiC Challenge (Bartosz Perz)</li>
-		<li>Ensemble Learning to Assess Dynamics of Affective Experience Ratings and Physiological Change (Monica Perusquía Hernández and Chirag Raman)</li>
-		<li>Deep Learning Analysis of Electrophysiological Series for Continuous Emotion Detection (Javier Orlando Pinzon-Arenas)</li>
-		<li>Affective Computing as a Tool for Understanding Emotion Dynamics from Physiology: A Predictive Modeling Study of Arousal and Valence (Javier Orlando Pinzon-Arenas)</li>
-		<li>Unvieling the EPiC Challenge Results (Stanisław Saganowski)</li>
-	</ul>
-
 <li>12:00 - 1:30: Lunch</li>
 
 <li>1:30 - 2:15: The future of EPiC (Nicholas A. Coles)</li>
