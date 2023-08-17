@@ -27,9 +27,9 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 
 	* Ensemble Learning to Assess Dynamics of Affective Experience Ratings and Physiological Change (Monica Perusquía Hernández and Chirag Raman)
 
-	* Deep Learning Analysis of Electrophysiological Series for Continuous Emotion Detection (Javier Orlando Pinzon-Arenas)
+	* Deep Learning Analysis of Electrophysiological Series for Continuous Emotional State Detection (Javier Orlando Pinzon-Arenas)
 
-	* Affective Computing as a Tool for Understanding Emotion Dynamics from Physiology: A Predictive Modeling Study of Arousal and Valence (Javier Orlando Pinzon-Arenas)
+	* Affective Computing as a Tool for Understanding Emotion Dynamics from Physiology: A Predictive Modeling Study of Arousal and Valence (Tomás Ariel D'Amelio)
 
 	* Unvieling the EPiC Challenge Results (Stanisław Saganowski)
 
