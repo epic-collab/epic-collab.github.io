@@ -16,11 +16,11 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 
 ***
 ## Agenda
-* 9:00 - 9:15: Opening Remarks (Maciej Behnke)
+* 9:00 - 9:10: Opening Remarks (Maciej Behnke)
 
-* 9:15 - 10:15: Keynote talk (Lisa Feldman Barrett and Karen Quigley)
+* 9:10 - 10:10: Keynote talk (Lisa Feldman Barrett and Karen Quigley)
 
-* 10:15 - 10:30: Coffee break
+* 10:10 - 10:30: Coffee break
 
 * 10:30 - 12:00 EPiC Challenge Session
 	* Introduction to EPiC Challenge (Bartosz Perz)
@@ -33,11 +33,10 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 
 	* Unvieling the EPiC Challenge Results (Stanisław Saganowski)
 
+	* The future of EPiC (Nicholas A. Coles)
+
 * 12:00 - 1:30: Lunch
 
-* 1:30 - 2:15: The future of EPiC (Nicholas A. Coles)
-
-* 2:15 - 3:00: Optional post-workshop brainstorming session
 
 ***
 ## Workshop organizers
