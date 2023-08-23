@@ -18,7 +18,8 @@ At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligenc
 ## Agenda
 * 9:00 - 9:10: Opening Remarks (Maciej Behnke)
 
-* 9:10 - 10:10: Keynote talk (Lisa Feldman Barrett and Karen Quigley)
+* 9:10 - 10:10: Keynote talk
+	* Context Reconsidered: Population thinking, relational realism and the study of emotion (Lisa Feldman Barrett and Karen Quigley)
 
 * 10:10 - 10:30: Coffee break
 
