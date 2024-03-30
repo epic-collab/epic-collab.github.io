@@ -3,7 +3,7 @@ layout: page
 title: 2023 ACII Workshop
 ---
 
-At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligence Interaction Conference</a> (September 10-13), we will host a half-day EPiC workshop. This workshop will include:
+At the <a href = "https://acii-conf.net/">2023 Affective Computing + Intelligence Interaction Conference</a> (September 10-13), we hosted a half-day EPiC workshop. This workshop included:
 
 1. A first-time reveal of the results of the <a href = "https://epic-collab.github.io/competition/">2023 EPiC Challenge</a>.
 
